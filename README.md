@@ -1,6 +1,6 @@
 # Restaurant
 
-Project Link : https://mahmoudanguoorestaurant.surge.sh/
+Project Link : http://mahmoudanguoorestaurant.surge.sh/ or https://mahmoudanguoorestaurant.surge.sh/
 
 Tools : Angular - html - css - bootstrap 
 
